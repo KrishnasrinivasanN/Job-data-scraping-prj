@@ -1,0 +1,12 @@
+ERROR LOGS:
+
+* ModuleNotFoundError: No module named 'undetected_chromedriver'
+
+* selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element
+
+* AttributeError: 'NoneType' object has no attribute 'text'
+
+* selenium.common.exceptions.NoSuchElementException
+
+* The DataFrame is empty.
+
